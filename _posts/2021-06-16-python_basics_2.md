@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Python Basics - Part 2
+subtitle: Part 2 of a Python tutorial for beginners.
 tags: [python]
 ---
 
-This is part 2 of a Python tutorial for beginners.
-
----
 ### Index
 
 [List Comprehensions](#list-comprehensions)  
