@@ -1,12 +1,10 @@
-# Python Basics - Part 3
+---
+layout: post
+title: Python Basics - Part 3
+tags: [python]
+---
 
-> This is Part 3 of a Python tutorial for beginners.
-
-- toc: true
-- branch: master
-- badges: true
-- comments: true
-- categories: [python]
+This is Part 3 of a Python tutorial for beginners.
 
 This blog post is a continuation of the previous post *Python Basics - Part 2*.
 
